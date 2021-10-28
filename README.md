@@ -17,7 +17,7 @@
 • <code>apt upgrade</code><br>
 • <code>apt install python</code><br>
 • <code>apt install git</code><br>
-• <code>git clone https://github.com/ilyargat/sms_killer</code><br>
+• <code>git clone https://github.com/c3lyxl/sms_killer</code><br>
 • <code>sh ~/sms_killer/install.sh</code><br>
 • <code>cd sms_killer && python3 sms_killer.py</code><br>
   
