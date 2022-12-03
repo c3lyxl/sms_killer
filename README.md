@@ -31,7 +31,3 @@
 • <code>sh ~/sms_killer/install.sh</code><br>
 • <code>cd sms_killer && python3 sms_killer.py</code><br>
 
-<h3>
-💰 Поддержать авторов проекта 
-<code><a href="https://qiwi.com/p/79165885068">QIWI</a></code><br>
-</h3>
